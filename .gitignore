@@ -1,0 +1,5 @@
+# build output of VS Code and Gradle
+bin/
+build/
+.gradle/
+*.class
