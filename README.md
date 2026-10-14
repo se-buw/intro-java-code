@@ -3,7 +3,7 @@
 The example programs of the lectures, one folder per lecture in `code/`.
 New lectures are added here when they are released.
 
-Slides: <https://se-buw.de/intro-java/>
+Slides: <https://se-buw.de/teaching/intro-java/slides/> (course page: <https://se-buw.de/teaching/intro-java/>)
 
 This repository is generated from the course materials; changes made here are overwritten.
 
