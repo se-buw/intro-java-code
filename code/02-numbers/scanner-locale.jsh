@@ -1,5 +1,3 @@
-import java.util.Scanner;
-import java.util.Locale;
 new Scanner("3.5").useLocale(Locale.US).nextDouble()
 new Scanner("3,5").useLocale(Locale.GERMANY).nextDouble()
 new Scanner("3,5").useLocale(Locale.US).hasNextDouble()
