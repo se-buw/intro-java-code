@@ -3,7 +3,8 @@
   // Each lecture's code folder is its own Java project.
   "folders": [
     { "name": "01-introduction", "path": "code/01-introduction" },
-    { "name": "02-numbers", "path": "code/02-numbers" }
+    { "name": "02-numbers", "path": "code/02-numbers" },
+    { "name": "03-conditions", "path": "code/03-conditions" }
   ],
   "settings": {
     "java.project.sourcePaths": ["."],
