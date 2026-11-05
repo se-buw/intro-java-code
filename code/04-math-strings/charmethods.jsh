@@ -1,0 +1,7 @@
+Character.isUpperCase('Ü')
+Character.isLetter('ß')
+Character.isDigit('7')
+Character.isLetterOrDigit('#')
+Character.isWhitespace('\t')
+Character.toLowerCase('Ü')
+Character.toUpperCase('a')

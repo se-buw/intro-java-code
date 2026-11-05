@@ -1,0 +1,7 @@
+Math.ceil(4.2)
+Math.ceil(-4.2)
+Math.floor(4.8)
+Math.floor(-4.2)
+Math.rint(4.6)
+Math.round(4.6)
+Math.round(4.4f)

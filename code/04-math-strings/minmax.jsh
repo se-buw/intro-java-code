@@ -1,0 +1,5 @@
+Math.max(1919, 1925)
+Math.max(3.9, 4)
+Math.abs(-6.5)
+Math.clamp(300, 0, 255)
+Math.abs(Integer.MIN_VALUE)

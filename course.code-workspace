@@ -4,7 +4,8 @@
   "folders": [
     { "name": "01-introduction", "path": "code/01-introduction" },
     { "name": "02-numbers", "path": "code/02-numbers" },
-    { "name": "03-conditions", "path": "code/03-conditions" }
+    { "name": "03-conditions", "path": "code/03-conditions" },
+    { "name": "04-math-strings", "path": "code/04-math-strings" }
   ],
   "settings": {
     "java.project.sourcePaths": ["."],

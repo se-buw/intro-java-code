@@ -1,0 +1,8 @@
+"[%5d]".formatted(42)
+"[%-5d]".formatted(42)
+"[%05d]".formatted(42)
+"[%8.2f]".formatted(Math.PI)
+"[%.3f]".formatted(Math.PI)
+"[%10s]".formatted("weimar")
+"[%-10s]".formatted("weimar")
+"[%02X]".formatted(6)

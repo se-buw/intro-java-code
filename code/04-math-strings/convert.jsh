@@ -1,0 +1,5 @@
+"Bauhaus Weimar".toLowerCase()
+"Bauhausstraße".toUpperCase()
+"Bauhausstraße".toUpperCase().length()
+"Weimar".concat(" 1919")
+"=".repeat(12)

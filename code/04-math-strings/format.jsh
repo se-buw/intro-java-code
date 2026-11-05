@@ -1,0 +1,8 @@
+String.format("%d", 1919)
+String.format("%x / %X", 227, 227)
+String.format("%f", Math.PI)
+String.format("%.2f", Math.PI)
+String.format("%e", 1234.5)
+String.format("%s, %c, %b", "bauhaus", 'b', true)
+String.format("100%%")
+"#%02X%02X%02X".formatted(227, 6, 19)

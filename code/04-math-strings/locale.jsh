@@ -1,0 +1,5 @@
+String.format("%.2f", Math.PI)
+String.format(java.util.Locale.GERMANY, "%.2f", Math.PI)
+String.format(java.util.Locale.ROOT, "%.2f", Math.PI)
+Double.parseDouble("3.14")
+new java.util.Scanner("3,14").useLocale(java.util.Locale.GERMANY).nextDouble()
