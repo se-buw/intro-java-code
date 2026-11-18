@@ -6,7 +6,8 @@
     { "name": "02-numbers", "path": "code/02-numbers" },
     { "name": "03-conditions", "path": "code/03-conditions" },
     { "name": "04-math-strings", "path": "code/04-math-strings" },
-    { "name": "05-loops", "path": "code/05-loops" }
+    { "name": "05-loops", "path": "code/05-loops" },
+    { "name": "06-methods", "path": "code/06-methods" }
   ],
   "settings": {
     "java.project.sourcePaths": ["."],
