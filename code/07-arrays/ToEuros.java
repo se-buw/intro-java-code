@@ -13,9 +13,9 @@ public class ToEuros {
     }
 
     public static void main(String[] args) {
-        int[] prices = {390, 275, 420};
-        double[] menu = toEuros(prices);
-        System.out.println(Arrays.toString(menu));
+        int[] menu = {390, 275, 420};
+        double[] euros = toEuros(menu);
+        System.out.println(Arrays.toString(euros));
     }
     // endregion
 }

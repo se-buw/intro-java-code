@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class ReassignParameter {
     // region reassign
     public static void main(String[] args) {
-        int[] meals = {820, 1140, 960, 1210, 640};
+        int[] meals = {820, 640, 960, 510, 640};
         newWeek(meals);
         System.out.println(Arrays.toString(meals));
     }

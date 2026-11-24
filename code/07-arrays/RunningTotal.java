@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class RunningTotal {
     public static void main(String[] args) {
         // region loop
-        int[] meals = {820, 1140, 960, 1210, 640};
+        int[] meals = {820, 640, 960, 510, 640};
         int[] total = new int[meals.length];
         total[0] = meals[0];
         for (int i = 1; i < meals.length; i++) {

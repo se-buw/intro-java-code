@@ -41,4 +41,4 @@ listing changes it.
 
 The GUI lectures are Gradle projects. Open a program in `fx/` and start
 **Run JavaFX program (current file)** in the *Run and Debug* view (F5); the first run downloads JavaFX.
-On the command line: `./gradlew run -PmainClass=DoorSign` in the lecture's folder.
+On the command line: `./gradlew run -PmainClass=TitleBar` in the lecture's folder.
